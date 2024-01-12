@@ -1,4 +1,4 @@
-# Demo to show a OpenApiFilter that describes all BeanValidations (even custom created) in OpenApi
+# Demo to show an OpenApiFilter that describes all BeanValidations (even custom created) in OpenApi
 screenshot of http://localhost:8080/q/swagger-ui/:
 ![grafik](https://github.com/ChMThiel/quarkusOpenApiBeanValidationFilter/assets/70508469/5ba63294-84b0-4922-8197-e5fe09e9dc4d)
 
