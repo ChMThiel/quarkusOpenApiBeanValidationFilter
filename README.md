@@ -1,0 +1,2 @@
+# quarkusOpenApiBeanValidationFilter
+OpenApiFilter that generates docs for BeanValidations
